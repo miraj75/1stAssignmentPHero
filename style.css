@@ -201,7 +201,6 @@ nav {
   margin-bottom: 100px;
 }
 .myNextTargetSection {
-  /* background-color: rebeccapurple; */
   display: flex;
   height: 150px;
   width: 1040px;
@@ -234,4 +233,71 @@ nav {
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
+}
+.footerContactSection {
+  width: 1040px;
+  width: 1040px;
+  margin-left: 125px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  height: 300px;
+  margin-top: 200px;
+  background: rgb(30, 30, 30);
+  margin-bottom: 80px;
+  background-image: url(/assets/handshake.jpg);
+  background-repeat: no-repeat center center;
+  background-size: cover;
+}
+.footerContactSection form {
+  text-align: center;
+  align-items: center;
+  position: relative;
+  top: 20%;
+}
+#feedbackInput {
+  width: 500px;
+  height: 40px;
+  border-radius: 6px;
+  padding-left: 5px;
+}
+.submit-button {
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: black;
+  background-color: white;
+  margin-top: 25px;
+  margin-bottom: 60px;
+  cursor: pointer;
+}
+.footerSectionDes {
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+.footerSectionDes p {
+  margin-top: 20px;
+}
+.footerSectionDes {
+  position: relative;
+  top: 20px;
+}
+.footerEnd {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 16px;
+  height: 100px;
+  align-items: center;
+  background: rgba(13, 19, 33, 0.03);
+}
+.footerEnd h2 {
+  font-size: 20px;
+  margin-left: 50px;
+}
+.footerIcon {
+  margin-right: 50px;
+}
+.footerIcon img {
+  margin: 8px;
 }

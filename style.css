@@ -245,7 +245,7 @@ nav {
   background: rgb(30, 30, 30);
   margin-bottom: 80px;
   background-image: url(assets/handshake.jpg);
-  background-repeat: no-repeat center center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 .footerContactSection form {

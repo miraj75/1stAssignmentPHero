@@ -6,7 +6,7 @@
   font-family: Azeret Mono;
 }
 nav {
-  width: 1302px;
+  width: 1280px;
   height: 70px;
 }
 .navBarContent {
@@ -38,7 +38,7 @@ nav {
   background-repeat: no-repeat;
 }
 .heroSectionItem {
-  width: 840px;
+  width: 830px;
   text-align: center;
   position: relative;
   left: 20%;
@@ -79,6 +79,55 @@ nav {
   color: white;
   background-color: black;
   margin-top: 25px;
-  margin-bottom: 35px;
+  margin-bottom: 60px;
+  cursor: pointer;
+}
+.abouWebDevSection {
+  /* background-color: chocolate; */
+  width: 1140px;
+  margin-left: 80px;
+  margin-top: 40px;
+  border-radius: 10px;
+  height: 1255px;
+  margin-bottom: 80px;
+
+  background: rgba(13, 19, 33, 0.02);
+}
+.abouWebDevSectionContent {
+  background-color: white;
+  margin-left: 80px;
+  margin-right: 80px;
+  position: relative;
+  top: 80px;
+  bottom: 80px;
+}
+.abouWebDevImg1 {
+  display: flex;
+  margin-top: 50px;
+}
+.abouWebDevDescription {
+  text-align: center;
+}
+.abouWebDevDescription h1 {
+  font-weight: 700;
+  font-size: 27px;
+  margin-bottom: 25px;
+}
+.abouWebDevImg1Description {
+  margin-left: 50px;
+  width: 50%;
+  align-items: center;
+}
+.abouWebDevImg1Description p {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.commonBtn {
+  padding: 10px;
+  border-radius: 1px solid 5px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-top: 25px;
+  margin-bottom: 60px;
   cursor: pointer;
 }

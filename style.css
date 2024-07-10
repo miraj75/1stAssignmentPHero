@@ -131,3 +131,27 @@ nav {
   margin-bottom: 60px;
   cursor: pointer;
 }
+.inspiarationSection {
+  width: 1140px;
+  margin-left: 80px;
+  margin-top: 40px;
+  border-radius: 10px;
+
+  margin-bottom: 80px;
+  align-items: center;
+  background: rgba(13, 19, 33, 0.02);
+}
+.inspiarationSectionContent {
+  align-items: center;
+  text-align: center;
+}
+.inspiarationSectionContent h1 {
+  font-size: 27px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.inspiarationSectionIframe {
+  margin-top: 50px;
+  align-items: center;
+  text-align: center;
+}

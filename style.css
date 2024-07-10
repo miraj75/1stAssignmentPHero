@@ -244,7 +244,7 @@ nav {
   margin-top: 200px;
   background: rgb(30, 30, 30);
   margin-bottom: 80px;
-  background-image: url(/assets/handshake.jpg);
+  background-image: url(assets/handshake.jpg);
   background-repeat: no-repeat center center;
   background-size: cover;
 }
